@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "apps.apple.com //商店内容，如 App、图书和音乐",
+        "itunes.apple.com",
+        "itunes.apple.com //商店内容，如 App、图书和音乐",
+        "mzstatic.com //商店内容，如 App、图书和音乐",
+        "ppq.apple.com //企业 App 验证"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".apps.apple.com //商店内容，如 App、图书和音乐",
+        ".itunes.apple.com //商店内容，如 App、图书和音乐",
+        ".mzstatic.com //商店内容，如 App、图书和音乐"
+      ]
+    }
+  ],
+  "version": 1
+}

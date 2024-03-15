@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "apzones.com //中国大陆的 iCloud 服务",
+        "icloud.com.cn //中国大陆的 iCloud 服务"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".apzones.com //中国大陆的 iCloud 服务",
+        ".icloud.com.cn //中国大陆的 iCloud 服务"
+      ]
+    }
+  ],
+  "version": 1
+}

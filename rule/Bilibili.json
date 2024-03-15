@@ -2,26 +2,48 @@
   "rules": [
     {
       "domain": [
-        "api.biliapi.com",
-        "api.biliapi.net",
-        "api.bilibili.com",
-        "app.biliapi.com",
-        "app.biliapi.net",
-        "app.bilibili.com",
-        "grpc.biliapi.net",
-        "m.bilibili.com",
-        "upos-hz-mirrorakam.akamaized.net",
-        "www.bilibili.com"
+        "acg.tv",
+        "acgvideo.com",
+        "apiintl.biliapi.net",
+        "b23.tv",
+        "bigfun.cn",
+        "bigfunapp.cn",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.co",
+        "bilibili.com",
+        "bilibili.tv",
+        "biligame.com",
+        "biligame.net",
+        "biliintl.co",
+        "bilivideo.cn",
+        "bilivideo.com",
+        "hdslb.com",
+        "im9.com",
+        "smtcdns.net",
+        "upos-hz-mirrorakam.akamaized.net"
       ]
     },
     {
-      "domain_keyword": [
-        "cn-hk-eq-bcache-"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "121.11.192.0/24"
+      "domain_suffix": [
+        ".acg.tv",
+        ".acgvideo.com",
+        ".b23.tv",
+        ".bigfun.cn",
+        ".bigfunapp.cn",
+        ".biliapi.com",
+        ".biliapi.net",
+        ".bilibili.co",
+        ".bilibili.com",
+        ".bilibili.tv",
+        ".biligame.com",
+        ".biligame.net",
+        ".biliintl.co",
+        ".bilivideo.cn",
+        ".bilivideo.com",
+        ".hdslb.com",
+        ".im9.com",
+        ".smtcdns.net"
       ]
     }
   ],

@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "appleid.apple.com //“设置”和“系统偏好设置”中的 Apple ID 认证",
+        "appleid.cdn-apple.com //“设置”和“系统偏好设置”中的 Apple ID 认证",
+        "gsa.apple.com //Apple ID 认证",
+        "idmsa.apple.com //Apple ID 认证"
+      ]
+    }
+  ],
+  "version": 1
+}
