@@ -6,7 +6,6 @@
         "api.statsig.com",
         "auth0.com",
         "browser-intake-datadoghq.com",
-        "cdn.cloudflare.net",
         "cdn.openai.com",
         "challenges.cloudflare.com",
         "chat.openai.com",
@@ -47,7 +46,6 @@
       "domain_suffix": [
         ".algolia.net",
         ".auth0.com",
-        ".cdn.cloudflare.net",
         ".challenges.cloudflare.com",
         ".chatgpt.com",
         ".client-api.arkoselabs.com",
