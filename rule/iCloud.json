@@ -2,33 +2,33 @@
   "rules": [
     {
       "domain": [
-        "apple-cloudkit.com //iCloud 服务",
-        "apple-livephotoskit.com //iCloud 服务",
-        "apzones.com //中国大陆的 iCloud 服务",
-        "cdn-apple.com //iCloud 服务",
-        "gc.apple.com //iCloud 服务",
-        "icloud-content.com //iCloud 服务",
-        "icloud.apple.com //iCloud 服务",
-        "icloud.com //iCloud 服务",
-        "icloud.com.cn //中国大陆的 iCloud 服务",
-        "iwork.apple.com //iWork 文稿",
-        "mask-api.icloud.com //iCloud 专用代理",
-        "mask-h2.icloud.com //iCloud 专用代理",
-        "mask.icloud.com //iCloud 专用代理"
+        "apple-cloudkit.com // iCloud 服务",
+        "apple-livephotoskit.com // iCloud 服务",
+        "apzones.com // 中国大陆的 iCloud 服务",
+        "cdn-apple.com // iCloud 服务",
+        "gc.apple.com // iCloud 服务",
+        "icloud-content.com // iCloud 服务",
+        "icloud.apple.com // iCloud 服务",
+        "icloud.com // iCloud 服务",
+        "icloud.com.cn // 中国大陆的 iCloud 服务",
+        "iwork.apple.com // iWork 文稿",
+        "mask-api.icloud.com // iCloud 专用代理",
+        "mask-h2.icloud.com // iCloud 专用代理",
+        "mask.icloud.com // iCloud 专用代理"
       ]
     },
     {
       "domain_suffix": [
-        ".apple-cloudkit.com //iCloud 服务",
-        ".apple-livephotoskit.com //iCloud 服务",
-        ".apzones.com //中国大陆的 iCloud 服务",
-        ".cdn-apple.com //iCloud 服务",
-        ".gc.apple.com //iCloud 服务",
-        ".icloud-content.com //iCloud 服务",
-        ".icloud.apple.com //iCloud 服务",
-        ".icloud.com //iCloud 服务",
-        ".icloud.com.cn //中国大陆的 iCloud 服务",
-        ".iwork.apple.com //iWork 文稿"
+        ".apple-cloudkit.com // iCloud 服务",
+        ".apple-livephotoskit.com // iCloud 服务",
+        ".apzones.com // 中国大陆的 iCloud 服务",
+        ".cdn-apple.com // iCloud 服务",
+        ".gc.apple.com // iCloud 服务",
+        ".icloud-content.com // iCloud 服务",
+        ".icloud.apple.com // iCloud 服务",
+        ".icloud.com // iCloud 服务",
+        ".icloud.com.cn // 中国大陆的 iCloud 服务",
+        ".iwork.apple.com // iWork 文稿"
       ]
     }
   ],
